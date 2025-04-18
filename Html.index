@@ -3,6 +3,24 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Creative Vision</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+  <section class="hero">
+    <h1><span class="light">Creative</span> <span class="accent">Vision</span></h1>
+    <p>Transforming ideas into stunning visuals through graphic design and video editing</p>
+    <a href="#work" class="cta-button">View My Work</a>
+  </section>
+
+</body>
+</html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>My Portfolio</title>
   <link rel="stylesheet" href="style.css"/>
 </head>
